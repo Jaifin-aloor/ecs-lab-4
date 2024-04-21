@@ -1,2 +1,1 @@
-
-this is the write up for the ECS lab 4 
+![https://github.com/Jaifin-aloor/ecs-lab-4/blob/main/task%200/task0.png]()
